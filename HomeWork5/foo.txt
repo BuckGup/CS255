@@ -1,0 +1,7 @@
+total 25
+-rwxr-xr-x. 1 strecksh8883 nobody 13320 Dec  9 21:09 a.out
+-rw-r--r--. 1 strecksh8883 nobody     0 Dec 10  2019 foo.txt
+-rwxr-xr-x. 1 strecksh8883 nobody  8456 Dec  9 21:10 input
+-rw-r--r--. 1 strecksh8883 nobody   123 Dec  9 21:03 input.c
+-rwxr-xr-x. 1 strecksh8883 nobody 13264 Dec 10 20:04 shell
+-rw-r--r--. 1 strecksh8883 nobody  3471 Dec 10 20:01 shell.c
